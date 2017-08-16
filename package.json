@@ -1,0 +1,8 @@
+{
+  "name": "aframe-arrow-component",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:h-ikeda/aframe-arrow-component.git",
+  "author": "Hiroki IKEDA <ikeda_hiroki@icloud.com>",
+  "license": "MIT"
+}
